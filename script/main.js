@@ -8,7 +8,7 @@ function displayProject(project) {
   a.setAttribute('href', `${project.url}`);
   li.appendChild(a);
 
-  document.querySelector('#project-list').appendChild(li);
+  document.querySelector('#project_list').appendChild(li);
 }
 
 getProjectsInfo();
