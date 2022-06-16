@@ -5,7 +5,7 @@ body {
   color: #045676;
   max-width: 650px;
   margin: 0 auto;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 footer {
@@ -39,7 +39,7 @@ h6 {
 }
 
 h1 {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   color: #045676;
   font-size: 40px;
   background-color: #56cbf9;
